@@ -1,0 +1,7 @@
+<map id="cppgc::internal::PersistentNode::InitializeAsUsedNode" name="cppgc::internal::PersistentNode::InitializeAsUsedNode">
+<area shape="rect" id="node1" title=" " alt="" coords="765,39,949,80"/>
+<area shape="rect" id="node2" href="$classcppgc_1_1internal_1_1PersistentRegionBase.html#a86507ae5b73d2c307714b58a26f2be2d" title=" " alt="" coords="541,39,717,80"/>
+<area shape="rect" id="node3" href="$classcppgc_1_1internal_1_1PersistentRegion.html#a98c947b33b0d7924179212feeb247538" title=" " alt="" coords="305,5,476,47"/>
+<area shape="rect" id="node4" href="$classcppgc_1_1internal_1_1CrossThreadPersistentRegion.html#aa24fa3dbb7ced946935b20b00a2e5eb1" title=" " alt="" coords="288,71,493,112"/>
+<area shape="rect" id="node5" href="$classcppgc_1_1internal_1_1BasicCrossThreadPersistent.html#ae6349479cb58549b01386d82d66fa656" title=" " alt="" coords="5,63,240,119"/>
+</map>

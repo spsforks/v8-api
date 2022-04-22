@@ -1,0 +1,16 @@
+<map id="cppgc::internal::BasicCrossThreadPersistent::operator=" name="cppgc::internal::BasicCrossThreadPersistent::operator=">
+<area shape="rect" id="node1" title=" " alt="" coords="5,171,188,212"/>
+<area shape="rect" id="node2" href="$classcppgc_1_1internal_1_1BasicCrossThreadPersistent.html#a4101c15a02138c88ea1d29ef95b10b34" title=" " alt="" coords="236,229,415,271"/>
+<area shape="rect" id="node8" href="$classcppgc_1_1internal_1_1PersistentBase.html#aa189d8229e1fd8cc2cfce363ade822c6" title=" " alt="" coords="470,73,641,115"/>
+<area shape="rect" id="node9" href="$classcppgc_1_1internal_1_1PersistentBase.html#a2fce9ff2e5e2e6e347e31dc1399c7acb" title=" " alt="" coords="470,143,641,184"/>
+<area shape="rect" id="node10" href="$classcppgc_1_1internal_1_1PersistentBase.html#af84e1d2f71c9cbd3f0a4424339c725cb" title=" " alt="" coords="470,273,641,315"/>
+<area shape="rect" id="node11" href="$classcppgc_1_1internal_1_1PersistentBase.html#a697d2fa1fc753a2f2e8c479143d72995" title=" " alt="" coords="470,339,641,380"/>
+<area shape="rect" id="node12" href="$classcppgc_1_1internal_1_1BasicCrossThreadPersistent.html#a11303453def5b5179a064fa1a9c35988" title=" " alt="" coords="236,112,415,153"/>
+<area shape="rect" id="node13" href="$classcppgc_1_1internal_1_1PersistentNode.html#a1ca2104547bd2139cb56233c575a38f9" title=" " alt="" coords="470,5,641,47"/>
+<area shape="rect" id="node3" href="$classcppgc_1_1internal_1_1CrossThreadPersistentRegion.html#a2ea5f1dee7fd750ada5d3d29e80871b3" title=" " alt="" coords="463,208,648,249"/>
+<area shape="rect" id="node4" href="$classcppgc_1_1internal_1_1PersistentRegionLock.html#a44d69a4e273ffca99d2389d622a844a1" title=" " alt="" coords="696,143,875,184"/>
+<area shape="rect" id="node5" href="$classcppgc_1_1internal_1_1PersistentRegion.html#af9379c9232b30b74532cccb697de9950" title=" " alt="" coords="700,208,871,249"/>
+<area shape="rect" id="node6" href="$classcppgc_1_1internal_1_1PersistentNode.html#a54960a446ce00f010add74b54bccc0ba" title=" " alt="" coords="923,208,1101,249"/>
+<area shape="rect" id="node7" href="$classcppgc_1_1internal_1_1PersistentNode.html#a6117a8f66c181bb22827a21b3fbd3457" title=" " alt="" coords="927,64,1097,105"/>
+<area shape="rect" id="node14" href="$classcppgc_1_1internal_1_1PersistentNode.html#ad50ff2c6d54004b92ec8c2d92455f17b" title=" " alt="" coords="700,64,871,105"/>
+</map>

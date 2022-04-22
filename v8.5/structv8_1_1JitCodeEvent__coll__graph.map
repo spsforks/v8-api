@@ -1,0 +1,7 @@
+<map id="v8::JitCodeEvent" name="v8::JitCodeEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="637,84,756,111"/>
+<area shape="rect" id="node2" href="$structv8_1_1JitCodeEvent_1_1wasm__source__info__t.html" title=" " alt="" coords="312,47,472,89"/>
+<area shape="rect" id="node3" href="$structv8_1_1JitCodeEvent_1_1line__info__t.html" title=" " alt="" coords="5,13,151,54"/>
+<area shape="rect" id="node4" href="$structv8_1_1JitCodeEvent_1_1name__t.html" title=" " alt="" coords="308,113,476,140"/>
+<area shape="rect" id="node5" href="$classv8_1_1Isolate.html" title=" " alt="" coords="351,164,433,191"/>
+</map>

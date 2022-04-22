@@ -1,0 +1,11 @@
+<map id="cppgc::internal::BasicCrossThreadPersistent::BasicCrossThreadPersistent" name="cppgc::internal::BasicCrossThreadPersistent::BasicCrossThreadPersistent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,123,240,179"/>
+<area shape="rect" id="node2" href="$classcppgc_1_1internal_1_1CrossThreadPersistentRegion.html#aa24fa3dbb7ced946935b20b00a2e5eb1" title=" " alt="" coords="288,97,493,139"/>
+<area shape="rect" id="node9" href="$classcppgc_1_1internal_1_1PersistentBase.html#af84e1d2f71c9cbd3f0a4424339c725cb" title=" " alt="" coords="305,163,476,204"/>
+<area shape="rect" id="node3" href="$classcppgc_1_1internal_1_1PersistentRegionBase.html#a86507ae5b73d2c307714b58a26f2be2d" title=" " alt="" coords="543,64,719,105"/>
+<area shape="rect" id="node8" href="$classcppgc_1_1internal_1_1PersistentRegionLock.html#a44d69a4e273ffca99d2389d622a844a1" title=" " alt="" coords="541,129,720,171"/>
+<area shape="rect" id="node4" href="$classcppgc_1_1internal_1_1PersistentNode.html#a7d35e57a8fd60e0d42222cd8d93c2942" title=" " alt="" coords="1000,5,1171,47"/>
+<area shape="rect" id="node5" href="$classcppgc_1_1internal_1_1PersistentNode.html#a6117a8f66c181bb22827a21b3fbd3457" title=" " alt="" coords="1219,64,1389,105"/>
+<area shape="rect" id="node6" href="$classcppgc_1_1internal_1_1PersistentNode.html#a18c4a9bce10409fd47e53cc0cdf8acab" title=" " alt="" coords="768,123,952,164"/>
+<area shape="rect" id="node7" href="$classcppgc_1_1internal_1_1PersistentNode.html#ad50ff2c6d54004b92ec8c2d92455f17b" title=" " alt="" coords="1000,123,1171,164"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="include/cppgc/internal/write&#45;barrier.h" name="include/cppgc/internal/write&#45;barrier.h">
+<area shape="rect" id="node1" title=" " alt="" coords="244,5,392,47"/>
+<area shape="rect" id="node2" href="$heap-state_8h.html" title=" " alt="" coords="25,102,157,129"/>
+<area shape="rect" id="node3" href="$v8config_8h.html" title=" " alt="" coords="43,184,123,211"/>
+<area shape="rect" id="node4" href="$api-constants_8h.html" title=" " alt="" coords="181,95,305,136"/>
+<area shape="rect" id="node7" href="$atomic-entry-flag_8h.html" title=" " alt="" coords="481,95,627,136"/>
+<area shape="rect" id="node9" href="$sentinel-pointer_8h.html" title=" " alt="" coords="652,102,811,129"/>
+<area shape="rect" id="node11" href="$trace-trait_8h.html" title=" " alt="" coords="329,102,456,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="236,184,304,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="147,184,211,211"/>
+<area shape="rect" id="node8" title=" " alt="" coords="531,184,593,211"/>
+<area shape="rect" id="node10" title=" " alt="" coords="701,184,762,211"/>
+<area shape="rect" id="node12" title=" " alt="" coords="451,259,534,285"/>
+<area shape="rect" id="node13" href="$type-traits_8h.html" title=" " alt="" coords="329,184,457,211"/>
+<area shape="rect" id="node14" title=" " alt="" coords="360,259,425,285"/>
+</map>

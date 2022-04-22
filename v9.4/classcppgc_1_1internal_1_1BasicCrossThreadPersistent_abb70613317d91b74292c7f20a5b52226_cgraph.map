@@ -1,0 +1,14 @@
+<map id="cppgc::internal::BasicCrossThreadPersistent::Release" name="cppgc::internal::BasicCrossThreadPersistent::Release">
+<area shape="rect" id="node1" title=" " alt="" coords="5,235,184,276"/>
+<area shape="rect" id="node2" href="$classcppgc_1_1internal_1_1BasicCrossThreadPersistent.html#a4101c15a02138c88ea1d29ef95b10b34" title=" " alt="" coords="232,185,411,227"/>
+<area shape="rect" id="node12" href="$classcppgc_1_1internal_1_1BasicCrossThreadPersistent.html#a11303453def5b5179a064fa1a9c35988" title=" " alt="" coords="232,267,411,308"/>
+<area shape="rect" id="node3" href="$classcppgc_1_1internal_1_1CrossThreadPersistentRegion.html#a2ea5f1dee7fd750ada5d3d29e80871b3" title=" " alt="" coords="459,37,644,79"/>
+<area shape="rect" id="node8" href="$classcppgc_1_1internal_1_1PersistentBase.html#aa189d8229e1fd8cc2cfce363ade822c6" title=" " alt="" coords="466,103,637,144"/>
+<area shape="rect" id="node9" href="$classcppgc_1_1internal_1_1PersistentBase.html#a2fce9ff2e5e2e6e347e31dc1399c7acb" title=" " alt="" coords="466,299,637,340"/>
+<area shape="rect" id="node10" href="$classcppgc_1_1internal_1_1PersistentBase.html#af84e1d2f71c9cbd3f0a4424339c725cb" title=" " alt="" coords="466,168,637,209"/>
+<area shape="rect" id="node11" href="$classcppgc_1_1internal_1_1PersistentBase.html#a697d2fa1fc753a2f2e8c479143d72995" title=" " alt="" coords="466,233,637,275"/>
+<area shape="rect" id="node4" href="$classcppgc_1_1internal_1_1PersistentRegionLock.html#a44d69a4e273ffca99d2389d622a844a1" title=" " alt="" coords="692,5,871,47"/>
+<area shape="rect" id="node5" href="$classcppgc_1_1internal_1_1PersistentRegion.html#af9379c9232b30b74532cccb697de9950" title=" " alt="" coords="696,71,867,112"/>
+<area shape="rect" id="node6" href="$classcppgc_1_1internal_1_1PersistentNode.html#a54960a446ce00f010add74b54bccc0ba" title=" " alt="" coords="919,37,1097,79"/>
+<area shape="rect" id="node7" href="$classcppgc_1_1internal_1_1PersistentNode.html#a6117a8f66c181bb22827a21b3fbd3457" title=" " alt="" coords="923,103,1093,144"/>
+</map>
